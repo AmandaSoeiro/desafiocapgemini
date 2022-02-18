@@ -1,0 +1,60 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body {
+    margin: 10%;
+   background: #380b61;
+}
+
+#titulo {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    margin-left: 40%;
+
+}
+
+#sub{
+    margin-left: 45%;
+    width: 320px;
+}
+
+#sub-titulo{
+    font-family: monospace;
+    color:darkgrey;
+    padding: 10%;
+}
+
+#password-caixa {
+
+    margin-left: 40%;
+ 
+}
+
+input {
+   padding: 0.5rem;
+    border-radius: 5%;
+    border: 1px solid #e9209f;
+    box-shadow: 2px 2px 2px;
+  
+}
+
+img {
+
+    width: 25%;
+}
+
+#ImpForcaSenha{
+
+    visibility: hidden;
+
+}
+
+#erroSenhaForca{
+    margin-left:auto;
+    font-family:'Franklin Gothic Medium';
+    margin-top: 2%;
+}
+    
+
